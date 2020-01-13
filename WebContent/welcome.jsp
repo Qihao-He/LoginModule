@@ -18,6 +18,8 @@
 	<h2>Welcome user: ${username}</h2><br>
 	<a href="videos.jsp">Videos here</a><br>
  	<a href="aboutus.jsp">About us page</a><br>
+ 	<a href="videos.jsp">Add Employee</a><br>
+ 	<a href="videos.jsp">Add Department</a><br>
 	<form action="Logout">
  		<input type="submit" value="Logout">
  	</form>

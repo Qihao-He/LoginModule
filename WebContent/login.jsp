@@ -13,7 +13,6 @@
  		Enter password: <input type="password" name="password"><br>
  		<input type="submit" value="login">
  	</form>
- 	
  	<a href="aboutus.jsp">About us page</a>
 </body>
 </html>
